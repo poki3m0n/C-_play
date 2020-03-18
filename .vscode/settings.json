@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "stack": "cpp",
+        "iosfwd": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "filesystem": "cpp"
+    }
+}

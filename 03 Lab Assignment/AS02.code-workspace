@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "/Users/kritika/labs/01 Lab Assignments"
+		},
+		{
+			"path": "/Users/kritika/labs/lb12"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"iostream": "cpp",
+			"complex": "cpp",
+			"queue": "cpp",
+			"ostream": "cpp",
+			"set": "cpp"
+		}
+	}
+}
